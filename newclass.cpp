@@ -3,7 +3,7 @@
 #include <iostream>
 
 #include "SomeClass.h"
-
+//testcomment
 SomeClass::SomeClass(const int someIntData, const bool someBoolData)
 {
 	someIntData_ = someIntData;
